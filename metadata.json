@@ -1,0 +1,6 @@
+{
+  "name": "PharmaParcel",
+  "description": "PharmaParcel Manager - Medicine parcel dispatch, OCR receipt scanner, tracking, inventory, and courier management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
